@@ -23,3 +23,6 @@ computeBalanceWithInterest() - returns new balance by computing the balance plus
 showInfo() - Returns details of account number, account name, and balance.
 
 BankAcountDecorator must be an interface.
+# UML Diagram
+
+![image](https://github.com/MedicMedic/10SoftEng1/assets/142379309/f50f50b5-284d-437d-9119-dcf59e46de3d)
